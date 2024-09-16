@@ -3,7 +3,7 @@
 ### About Me 🌱
 I write embedded software in C, C++, and Python. I have a bachelor's in Computer Engineering and a master's in Mechatronics Engineering.
 
-### I Speak 🗣
+### I Speak 🗣 [Not counting private 😉]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mechasif&layout=compact)
 
@@ -18,8 +18,7 @@ I write embedded software in C, C++, and Python. I have a bachelor's in Computer
 - Field Programmable Gate Arrays (FPGAs) [I know Xilinx Zynq-7000 and PYNQ-Z1]
 
 ### Contact Me 🤙
-- LinkedIn: https://www.linkedin.com/in/mechasif/
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mechasif/)
 
 <p align="center"> 
   Visitor count<br>
@@ -40,6 +39,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mechasif)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mechasif)](https://github.com/anuraghazra/github-readme-stats)
 -->
