@@ -1,4 +1,26 @@
-## Hi there 👋
+## Hey, I'm Asif 😎
+
+### About Me 🌱
+I write embedded software in C, C++, and Python. I have a bachelor's in Computer Engineering and a master's in Mechatronics Engineering.
+
+### I Speak 🗣
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mechasif&layout=compact)
+
+### Ask Me about 🙋‍♂️
+- Embedded Systems [I do it for fun]
+- Artificial Intelligence [especially Large Language Models (LLMs)]
+- Arduino, ESP32, STM32 microcontrollers, Raspberry Pi, or any Embedded System Platforms [I can do prototype designs on these boards]
+- Field Programmable Gate Arrays (FPGAs) [I know Xilinx Zynq-7000 and PYNQ-Z1]
+
+### Contact Me 🤙
+- LinkedIn: https://www.linkedin.com/in/mechasif/
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mechasif/count.svg" />
+</p>
 
 <!--
 **mechasif/mechasif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +35,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mechasif)](https://github.com/anuraghazra/github-readme-stats)
 -->
