@@ -3,9 +3,7 @@
 ### About Me 🌱
 I write embedded software in C, C++, and Python. I have a bachelor's in Computer Engineering and a master's in Mechatronics Engineering.
 
-### I Speak 🗣 [Not counting private 😉]
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mechasif&layout=compact)
+[![Spotify](https://novatorem-iota-eight.vercel.app/api/spotify)](https://open.spotify.com/user/nw5elxc8nvs698q9ea0sc1k7a)
 
 ### Ask Me about 🙋‍♂️
 - Embedded Systems [I do it for fun]
@@ -17,6 +15,10 @@ I write embedded software in C, C++, and Python. I have a bachelor's in Computer
   - Raspberry Pi
 - Field Programmable Gate Arrays (FPGAs) [I know Xilinx Zynq-7000 and PYNQ-Z1]
 
+### I Speak 🗣 [Not counting private 😉]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mechasif&layout=compact)
+
 ### Contact Me 🤙
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mechasif/)
 
@@ -26,6 +28,16 @@ I write embedded software in C, C++, and Python. I have a bachelor's in Computer
 </p>
 
 <!--
+
+To Be Added:
+
+[![Spotify](https://novatorem-iota-eight.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
+### I Craft with 🔨
+
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+
+
 **mechasif/mechasif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
