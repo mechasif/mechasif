@@ -3,7 +3,8 @@
 ### About Me 🌱
 I write embedded software in C, C++, and Python. I have a bachelor's in Computer Engineering and a master's in Mechatronics Engineering.
 
-[![Spotify](https://novatorem-iota-eight.vercel.app/api/spotify)](https://open.spotify.com/user/nw5elxc8nvs698q9ea0sc1k7a)
+### Now Playing 🎧
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=nw5elxc8nvs698q9ea0sc1k7a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### Ask Me about 🙋‍♂️
 - Embedded Systems [I do it for fun]
