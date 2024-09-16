@@ -10,7 +10,11 @@ I write embedded software in C, C++, and Python. I have a bachelor's in Computer
 ### Ask Me about 🙋‍♂️
 - Embedded Systems [I do it for fun]
 - Artificial Intelligence [especially Large Language Models (LLMs)]
-- Arduino, ESP32, STM32 microcontrollers, Raspberry Pi, or any Embedded System Platforms [I can do prototype designs on these boards]
+- Embedded System Hardware Platforms [I can do prototype designs on these boards]
+  - Arduino
+  - ESP32
+  - STM32
+  - Raspberry Pi
 - Field Programmable Gate Arrays (FPGAs) [I know Xilinx Zynq-7000 and PYNQ-Z1]
 
 ### Contact Me 🤙
