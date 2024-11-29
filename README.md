@@ -14,7 +14,7 @@ I enjoy writing code and tweaking with electronics. I have a bachelor's in Compu
   - ESP32
   - STM32
   - Raspberry Pi
-- Field Programmable Gate Arrays (FPGAs) [I know Xilinx Zynq-7000 and PYNQ-Z1]
+  - FPGAs [I know Xilinx Zynq-7000 and PYNQ-Z1]
 
 ### 🗣 I Speak [Not counting private 😉]
 
