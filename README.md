@@ -3,6 +3,9 @@
 ### 🌱 About Me 
 I enjoy writing code and tweaking with electronics. I have a bachelor's in Computer Engineering and a master's in Mechatronics Engineering.
 
+### 🎧 I enjoy listening to music and now playing
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=nw5elxc8nvs698q9ea0sc1k7a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ### 🙋‍♂️ Ask Me about 
 - Embedded Systems [I do it for fun]
 - Artificial Intelligence or Machine Learning [especially Large Language Models (LLMs)]
@@ -16,9 +19,6 @@ I enjoy writing code and tweaking with electronics. I have a bachelor's in Compu
 ### 🗣 I Speak [Not counting private 😉]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mechasif&layout=compact)
-
-### 🎧 I enjoy listening to music and now playing
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=nw5elxc8nvs698q9ea0sc1k7a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### 🤙 Contact Me 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mechasif/)
