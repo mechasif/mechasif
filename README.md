@@ -1,9 +1,9 @@
 ## Hey, I'm Asif 😎
 
 ### 🌱 About Me 
-I enjoy writing code and tweaking with electronics. I have a bachelor's in Computer Engineering and a master's in Mechatronics Engineering.
+I enjoy writing code, tweaking electronics, and helping others understand technical concepts in an easy and simple way. I have a bachelor's in Computer Engineering and a master's in Mechatronics Engineering.
 
-### 🎧 I enjoy listening to music and now playing
+### 🎧 Besides food and drinks, I consume music and now playing
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=nw5elxc8nvs698q9ea0sc1k7a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### 🙋‍♂️ Ask Me about 
