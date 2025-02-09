@@ -10,11 +10,10 @@ I enjoy writing code, tweaking electronics, and helping others understand techni
 - Embedded Systems [especially Embedded Software]
 - Artificial Intelligence or Machine Learning [especially Large Language Models (LLMs)]
 - Embedded Systems Hardware Platforms [I can do prototype designs on these boards]
-  - Arduino
-  - ESP32
-  - STM32
+  - MCUs (Arduino, ESP32, STM32)
   - Raspberry Pi
   - FPGAs [I know Xilinx Zynq-7000 and PYNQ-Z1]
+  - PLCs
 
 ### 🗣 I Speak [Not counting private 😉]
 
