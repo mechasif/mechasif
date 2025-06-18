@@ -20,6 +20,8 @@ I enjoy writing code, tinkering with electronics, and helping others understand 
   - Git
   - CMake
   - GCC
+  - GDB
+  - Valgrind
   - Robot Framework
   - Catch2
 
