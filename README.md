@@ -1,9 +1,9 @@
 ## Hey, I'm Asif 😎
 
 ### 🌱 About Me 
-I enjoy writing code, tweaking electronics, and helping others understand technical concepts in an easy and simple way. I have a bachelor's in Computer Engineering and a master's in Mechatronics Engineering.
+I enjoy writing code, tinkering with electronics, and helping others understand technical concepts clearly and straightforwardly. I hold a bachelor's degree in Computer Engineering and a master's degree in Mechatronics Engineering, with a focus on Embedded Systems in both fields.
 
-### 🎧 Besides food and drinks, I consume music and now playing
+### 🎧 Besides food and drinks, I consume music and am now playing
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=nw5elxc8nvs698q9ea0sc1k7a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### 🙋‍♂️ Ask Me about 
@@ -14,6 +14,14 @@ I enjoy writing code, tweaking electronics, and helping others understand techni
   - Raspberry Pi
   - FPGAs [I know Xilinx Zynq-7000 and PYNQ-Z1]
   - PLCs
+- Tools I've worked with:
+  - Azure DevOps
+  - Jira
+  - Git
+  - CMake
+  - GCC
+  - Robot Framework
+  - Catch2
 
 ### 🗣 I Speak [Not counting private 😉]
 
