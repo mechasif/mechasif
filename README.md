@@ -30,7 +30,8 @@ I enjoy writing code, tinkering with electronics, and helping others understand 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mechasif&layout=compact)
 
 ### 🤙 Contact Me 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mechasif/)
+
+[LinkedIn](https://www.linkedin.com/in/mechasif/)
 
 <p align="center"> 
   Visitor count<br>
