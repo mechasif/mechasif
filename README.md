@@ -33,10 +33,12 @@ I enjoy writing code, tinkering with electronics, and helping others understand 
 
 [LinkedIn](https://www.linkedin.com/in/mechasif/)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mechasif/count.svg" />
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mechasif&label=PROFILE+VIEWS&color=grey&style=flat&abbreviated=true" alt="Visitor Badge"/>
 </p>
+
 
 <!--
 
