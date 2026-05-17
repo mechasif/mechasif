@@ -22,9 +22,11 @@ I enjoy writing code, tinkering with electronics, and helping others understand 
   - Robot Framework
   - Catch2
 
+<!--
 ### 🗣 I Speak [Not counting private 😉]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mechasif&layout=compact)
+-->
 
 ### 🤙 Contact Me 
 
