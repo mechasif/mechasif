@@ -11,22 +11,21 @@ I enjoy writing code, tinkering with electronics, and helping others understand 
   - Raspberry Pi
   - FPGAs [I know Xilinx Zynq-7000 and PYNQ-Z1]
   - PLCs
-- Tools I've worked with:
+- Fieldbuses (EtherCAT, Ethernet/IP, PROFINET [PROFIdrive, PROFIsafe], Modbus)
+- Tools I've worked with (alphabetically):
   - Azure DevOps
-  - Jira
-  - Git
+  - Catch2
   - CMake
+  - EtherCAT Conformance Test Tool (CTT)
+  - Git
   - GCC
   - GDB
-  - Valgrind
+  - Jira
+  - PROFINET Master Simulator
   - Robot Framework
-  - Catch2
-
-<!--
-### 🗣 I Speak [Not counting private 😉]
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mechasif&layout=compact)
--->
+  - Typhoon HIL
+  - Valgrind
+  - Visual Studio
 
 ### 🤙 Contact Me 
 
@@ -43,8 +42,6 @@ I enjoy writing code, tinkering with electronics, and helping others understand 
 
 To Be Added:
 
-[![Spotify](https://novatorem-iota-eight.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
-
 ### I Craft with 🔨
 
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
@@ -58,12 +55,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mechasif)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mechasif)](https://github.com/anuraghazra/github-readme-stats)
--->
